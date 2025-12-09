@@ -41,7 +41,7 @@ uvicorn main:app --reload
 
 Full explanation:
 
-https://noone-m.github.io/)2025-11-24-fastapi-file-upload/
+https://noone-m.github.io/2025-11-24-fastapi-file-upload/
 
 ## License
 
