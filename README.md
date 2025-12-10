@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.jpg" width="150" />
+</p>
+
 # FastAPI Secure File Upload ⚡
 
 Production-ready, fully asynchronous file upload & download implementation for FastAPI with zero-trust security.
