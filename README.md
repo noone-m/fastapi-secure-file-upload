@@ -34,7 +34,7 @@ Perfect for document management, avatars, PDFs, images, etc.
 ## Quick Start
 
 ```bash
-git clone https://github.com/yourname/fastapi-secure-file-upload.git
+git clone https://github.com/noone-m/fastapi-secure-file-upload.git
 cd fastapi-secure-file-upload
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
@@ -45,7 +45,7 @@ uvicorn main:app --reload
 
 Full explanation:
 
-https://noone-m.github.io/2025-11-24-fastapi-file-upload/
+https://noone-m.github.io/2025-12-10-fastapi-file-upload/
 
 ## License
 
